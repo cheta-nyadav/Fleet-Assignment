@@ -18,5 +18,7 @@ Jupyter Notebook
 ## Files
 
 [Fleet_management.ipynb](https://github.com/cheta-nyadav/Fleet-Assignment/blob/main/Fleet_management.ipynb) - Complete code implementation
+
 [UA project.pdf](https://github.com/cheta-nyadav/Fleet-Assignment/blob/main/UA%20project.pdf) - Detailed analysis and results
+
 README.md - This file
